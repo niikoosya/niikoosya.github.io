@@ -48,3 +48,10 @@ img{
   margin-top: 20px;
   font-size: 20px;
 }
+.btn{
+  width: 100%
+}
+
+.btn2{
+  width: 50%
+}
